@@ -1,19 +1,10 @@
 ## Hoşgeldiniz 
-
-You can use the [editor on GitHub](https://github.com/hexachain/hexachain.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+Kod Çubuğu 
 
-#  Merhaba 
-## hello 
-### Hola
+#  %50 İndirimli 
+## Düşük Maliyetli Kaynak Kodu 
+### HTML CSS Js barındıran temiz kod Tasarımı 
 
 - Bulleted
 - List
@@ -21,13 +12,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**I'M NEWBİE** and _NOOB_ and `Code` text
+**Loa**  _ding_  `%99` ...
 
 [Link](url) and ![Image](src)
 ```
-
-
-### THİS PAGE FREE SOURCE 
+### örnek Tasarım için 
 
  [Tıklayınız](https://cryzer777.github.io/)
 
