@@ -26,10 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-(cryzer777.github.io)
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://hexachain.github.io/).Click me 
+### THİS PAGE FREE SOURCE 
+
+ [Tıklayınız](https://cryzer777.github.io/)
 
 ### Destekle beni !
 Daha fazla bilgi için `Beklemede Kalın `
